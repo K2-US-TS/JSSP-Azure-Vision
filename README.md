@@ -12,7 +12,7 @@
  - ListCelebrities: Input an image URL and returns the list of celebrities detected with confidence score.
  - ListTags: Input an image URL and returns the list of tags associated with objects detected in the image
  
-Additional Information:  [API Reference](https://westus.dev.cognitive.microsoft.com/docs/services/57cf753a3f9b070c105bd2c1/operations/57cf753a3f9b070868a1f66f)
+Additional Information:  [API Reference](https:/westcentralus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fa)
 
 ## What is required to create a K2 Service Instance:
 1. Azure Service Endpoint (e.g. https://eastus.api.cognitive.microsoft.com)
